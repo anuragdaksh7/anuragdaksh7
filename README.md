@@ -42,3 +42,9 @@
 <div>
 
 ## Github Badges
+<br>
+<div style="display: flex; justify-content: space-around">
+    <img src="./imgAssets/yolo.png" height="100px">
+    <img src="./imgAssets/pull-shark.png" height="100px">
+    <!-- <img src="./imgAssets/msql.png" height="100px"> -->
+</div>
