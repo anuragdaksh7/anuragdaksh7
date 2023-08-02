@@ -34,7 +34,7 @@
 </div>
 <br>
 <div style="display: flex; justify-content: space-around">
-    <img src="./imgAssets/kali.png" height="100px">
-    <img src="./imgAssets/asm.png" height="100px">
-    <img src="./imgAssets/msql.png" height="100px">
+    <img src="./imgAssets/kali.png" align="left" height="100px">
+    <img src="./imgAssets/asm.png" align="center" height="100px">
+    <img src="./imgAssets/msql.png" align="right" height="100px">
 </div>
