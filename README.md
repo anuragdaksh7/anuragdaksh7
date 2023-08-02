@@ -8,7 +8,7 @@
 - See my [Certificates](./certificates.md)
 - Joined 18th May 2021
 
-### skills:
+## skills:
 <div>
 <div style="display: flex; justify-content: space-around">
     <img src="./imgAssets/python.png" height="100px">
