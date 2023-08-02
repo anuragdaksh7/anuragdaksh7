@@ -1,0 +1,1 @@
+[ML study jam certificate](./certificates/9338f3e7-efdb-4539-9a62-e8982c735be4.pdf)
