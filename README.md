@@ -28,7 +28,7 @@
     <img src="./imgAssets/react.png" height="100px">
 <!-- </div>
 <br>
-<div style="display: flex; justify-content: space-around"> -->
+<div style="display: flex; justify-content: space-around">-->
     <img src="./imgAssets/c_logo.png" height="100px">
     <img src="./imgAssets/c++.png" height="100px">
     <img src="./imgAssets/c-.png" height="100px">
