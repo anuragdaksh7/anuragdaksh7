@@ -46,5 +46,5 @@
 <div style="display: flex; justify-content: space-around">
     <img src="./imgAssets/yolo.png" height="100px">
     <img src="./imgAssets/pull-shark.png" height="100px">
-    <img src="./imgAssets/quickdraw-default--light.png" height="100px"> -->
+    <img src="./imgAssets/quickdraw-default--light.png" height="100px">
 </div>
