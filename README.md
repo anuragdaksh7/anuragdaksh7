@@ -50,6 +50,6 @@
 </div>
 <br>
 <br><p>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=anuragdaksh7&show_icons=true&locale=en" alt="anuragdaksh7"></p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=anuragdaksh7&show_icons=true&locale=en&show=reviews&theme=radical" alt="anuragdaksh7"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragdaksh7&theme=radical" alt="anuragdaksh7"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragdaksh7&" alt="anuragdaksh7" /></p>
