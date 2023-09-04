@@ -9,7 +9,7 @@
 - Joined 18th May 2021
 
 ## skills:
-<div>
+<div >
 <div style="display: flex; justify-content: space-around">
     <img src="./imgAssets/python.png" height="100px">
     <img src="./imgAssets/node.png" height="100px">
