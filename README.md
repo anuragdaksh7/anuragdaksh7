@@ -40,7 +40,10 @@
     <img src="./imgAssets/msql.png" height="100px">
 </div>
 <div>
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=anuragdaksh7&theme=discord&column=3&row=2" alt="nitinjuyal1610" /> </p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitinJuyal1610&theme=material_palenight" alt="A beautiful sunset">
+</p>
 ## Github Badges
 <br>
 <div style="display: flex; justify-content: space-around">
