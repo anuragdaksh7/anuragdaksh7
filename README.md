@@ -44,6 +44,7 @@
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitinJuyal1610&theme=material_palenight" alt="A beautiful sunset">
 </p>
+    
 ## Github Badges
 <br>
 <div style="display: flex; justify-content: space-around">
