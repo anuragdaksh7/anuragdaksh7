@@ -42,7 +42,7 @@
 <div>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=anuragdaksh7&theme=discord&column=3&row=2" alt="nitinjuyal1610" /> </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NitinJuyal1610&theme=material_palenight" alt="A beautiful sunset">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuragdaksh7&theme=material_palenight" alt="A beautiful sunset">
 </p>
     
 ## Github Badges
