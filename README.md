@@ -5,7 +5,6 @@
 - 📫 [Social Media](./socialMedias.md)
 - 🌱 I’m currently learning FULL STACK/ DSA
 - You can find my resume on -> [ 📝 ](./Anurag's%20Resume.pdf)
-- See my [Certificates](./certificates.md)
 - Joined 18th May 2021
 
 
